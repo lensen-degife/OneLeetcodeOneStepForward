@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
