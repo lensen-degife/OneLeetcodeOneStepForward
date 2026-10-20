@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
 |  |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
