@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0013-roman-to-integer) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
