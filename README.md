@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
