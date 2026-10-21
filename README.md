@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0014-longest-common-prefix) |
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
