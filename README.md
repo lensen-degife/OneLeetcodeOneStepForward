@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0014-longest-common-prefix) |
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
