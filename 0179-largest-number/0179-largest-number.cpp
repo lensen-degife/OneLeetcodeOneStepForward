@@ -11,7 +11,7 @@ public:
         if(strNums[0] == "0"){
             return "0";
         }
-        string res = "";\
+        string res = "";
         for(string& s : strNums){
             res  += s;
         }
