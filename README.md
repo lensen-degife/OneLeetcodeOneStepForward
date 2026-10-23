@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0704-binary-search) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
