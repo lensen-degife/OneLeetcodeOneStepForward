@@ -9,16 +9,20 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode *curl = head;
-        unordered_set<ListNode*> lookup ;
-        while(curl != nullptr){
-
-            if(lookup.count(curl)){
-                return curl;
+        ListNode *slow = head;
+        ListNode *fast = head;
+        while(fast != nullptr && fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+            if(fast == slow){
+                slow = head;
+               while (slow != fast) {
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+                return slow;
             }
-            lookup.insert(curl);
-            curl = curl -> next;
         }
-         return nullptr;
+        return nullptr;
     }
 };
