@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0409-longest-palindrome) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2409-count-days-spent-together](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2409-count-days-spent-together) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
+| [2409-count-days-spent-together](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
