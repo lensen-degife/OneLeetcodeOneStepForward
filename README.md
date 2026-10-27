@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0202-happy-number) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 ## Design
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 ## Enumeration
 |  |
