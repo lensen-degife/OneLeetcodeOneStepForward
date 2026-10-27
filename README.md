@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0409-longest-palindrome) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0287-find-the-duplicate-number) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0912-sort-an-array) |
 ## Floyd's Cycle Finding Algorithm
