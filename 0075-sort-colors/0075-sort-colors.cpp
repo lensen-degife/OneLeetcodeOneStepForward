@@ -4,10 +4,13 @@ public:
         int left = 0;
         int right = nums.size() - 1;
         int i = 0;
+        int temp;
 
         while (i <= right) {
             if (nums[i] == 0) {
-                swap(nums[i], nums[left]);
+                temp = nums[i];
+                nums[i] = nums[left];
+                nums[left] = temp;
                 left++;
                 i++;
             }
