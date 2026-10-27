@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0189-rotate-array) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
