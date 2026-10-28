@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0912-sort-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
 | ------- |
