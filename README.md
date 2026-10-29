@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0912-sort-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
 | ------- |
