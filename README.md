@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
+| [0445-add-two-numbers-ii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0445-add-two-numbers-ii) |
 | [2409-count-days-spent-together](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0739-daily-temperatures) |
 ## Design
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
