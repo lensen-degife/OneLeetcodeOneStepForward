@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0912-sort-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0912-sort-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
