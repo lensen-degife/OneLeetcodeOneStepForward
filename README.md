@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0424-longest-repeating-character-replacement) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2409-count-days-spent-together](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2409-count-days-spent-together) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0904-fruit-into-baskets) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Queue
 |  |
