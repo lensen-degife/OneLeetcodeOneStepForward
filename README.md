@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0128-longest-consecutive-sequence) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
