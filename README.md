@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0189-rotate-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0287-find-the-duplicate-number) |
