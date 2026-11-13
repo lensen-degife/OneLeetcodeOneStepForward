@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0283-move-zeroes) |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
