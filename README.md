@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0904-fruit-into-baskets) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0904-fruit-into-baskets) |
@@ -310,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
