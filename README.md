@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0075-sort-colors) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
