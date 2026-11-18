@@ -4,27 +4,26 @@ public:
         vector<vector<int>> result;
         vector<int> current;
         vector<bool> used(nums.size(), false);
-        int n = nums.size();
-        backtrack(nums, current, used, result, n);
+        backtrack(nums, current, used, result);
         return result;
     }
     void backtrack(vector<int>& nums, vector<int>& current,
                    vector<bool>& used,
-                   vector<vector<int>>& result, int n) {
-        int m = current.size();
-        if (m == n) {
+                   vector<vector<int>>& result) {
+      
+        if (nums.size() == current.size()) {
             result.push_back(current);
             return;
         }
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < nums.size(); i++) {
             if (used[i]) {
                 continue;
             }
             used[i] = true;
             current.push_back(nums[i]);
 
-            backtrack(nums, current, used, result, n);
+            backtrack(nums, current, used, result);
 
             current.pop_back();
             used[i] = false;
