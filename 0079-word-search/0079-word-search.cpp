@@ -2,11 +2,11 @@ class Solution {
 public:
     bool exist(vector<vector<char>>& board, string word) {
         int rows = board.size();
-        int cols = board[0].size();
+        int columns = board[0].size();
 
-        for (int r = 0; r < rows; ++r) {
-            for (int c = 0; c < cols; ++c) {
-                if (dfs(board, word, r, c, 0)) {
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < columns; j++) {
+                if (dfs(board, word, i, j, 0)) {
                     return true;
                 }
             }
@@ -14,28 +14,23 @@ public:
         return false;
     }
 
-private:
-    bool dfs(vector<vector<char>>& board, const string& word, int r, int c, int index) {
+    bool dfs(vector<vector<char>>& board, string word, int row, int column,
+             int index) {
         if (index == word.size()) {
             return true;
         }
-        if (r < 0 || r >= board.size() || c < 0 || c >= board[0].size() || board[r][c] != word[index]) {
+        if (row >= board.size() || row < 0 || column >= board[0].size() ||
+            column < 0 || word[index] != board[row][column]){
             return false;
-        }
-
-        // Mark cell as visited in-place
-        char temp = board[r][c];
-        board[r][c] = '#';
-
-        // Explore all 4 adjacent directions
-        bool found = dfs(board, word, r + 1, c, index + 1) ||
-                     dfs(board, word, r - 1, c, index + 1) ||
-                     dfs(board, word, r, c + 1, index + 1) ||
-                     dfs(board, word, r, c - 1, index + 1);
-
-        // Backtrack: restore the original character
-        board[r][c] = temp;
-
+            }
+        char temp = board[row][column];
+        board[row][column] = '#';
+        bool found = dfs(board, word, row+1, column, index + 1) ||
+                     dfs(board, word, row -1, column, index + 1) ||
+                     dfs(board, word, row, column+1, index + 1) ||
+                     dfs(board, word, row, column - 1, index + 1) ;
+        board[row][column] = temp;
         return found;
+        
     }
 };
