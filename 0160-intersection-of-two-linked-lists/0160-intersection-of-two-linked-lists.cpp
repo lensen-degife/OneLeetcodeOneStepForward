@@ -11,7 +11,7 @@ public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         
         unordered_set<ListNode* > collection;
-        
+
         ListNode* currentPtr= headA;
         while(currentPtr != nullptr){
             collection.insert(currentPtr);
@@ -20,7 +20,7 @@ public:
         ListNode* ptrB = headB;
 
         while(ptrB != nullptr){
-            if(collection.find(ptrB) != collection.end() ){
+            if(collection.count(ptrB)){
                 return ptrB;
             }
             ptrB = ptrB->next;
