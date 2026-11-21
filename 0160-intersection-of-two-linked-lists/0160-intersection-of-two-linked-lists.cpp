@@ -10,23 +10,13 @@ class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         
-        unordered_set<ListNode* > collection;
+        ListNode* pA = headA;
+        ListNode* pB = headB;
 
-        ListNode* currentPtr= headA;
-        while(currentPtr != nullptr){
-            collection.insert(currentPtr);
-            currentPtr=currentPtr->next;
+        while(pA != pB){
+            pA = (pA == nullptr)? headB : pA->next;
+            pB = (pB == nullptr)? headA : pB->next;
         }
-        ListNode* ptrB = headB;
-
-        while(ptrB != nullptr){
-            if(collection.count(ptrB)){
-                return ptrB;
-            }
-            ptrB = ptrB->next;
-        }
-
-    return nullptr;
-
+        return pA;
     }
 };
