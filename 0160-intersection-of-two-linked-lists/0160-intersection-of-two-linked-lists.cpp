@@ -9,14 +9,23 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        
-        ListNode* pA = headA;
-        ListNode* pB = headB;
 
-        while(pA != pB){
-            pA = (pA == nullptr)? headB : pA->next;
-            pB = (pB == nullptr)? headA : pB->next;
+        unordered_set<ListNode*> collections;
+        ListNode *pA = headA;
+        ListNode *pB = headB;
+
+        while(pA != nullptr){
+            collections.insert(pA);
+            pA = pA->next;
         }
-        return pA;
+
+        while(pB != nullptr){
+            if(collections.count(pB)){
+                return pB;
+            }
+            pB = pB->next;
+        }
+        return nullptr;
+        
     }
 };
