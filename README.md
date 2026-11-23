@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0445-add-two-numbers-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0273-integer-to-english-words) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0912-sort-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
