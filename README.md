@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1544-make-the-string-great) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2409-count-days-spent-together](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/2409-count-days-spent-together) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/lensen-degife/OneLeetcodeOneStepForward/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |
