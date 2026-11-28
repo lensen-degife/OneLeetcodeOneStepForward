@@ -3,39 +3,43 @@ public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         if (!head || k == 1) return head;
 
+        // 1. Count total nodes properly
+        ListNode* temp = head;
+        int counter = 0;
+        while (temp != nullptr) {
+            temp = temp->next;
+            counter++;
+        }
+
+        // Dummy node helps track the new head of the entire list
         ListNode dummy(0);
         dummy.next = head;
-        ListNode* groupPrev = &dummy;
+        
+        ListNode* prevGroupTail = &dummy;
+        ListNode* curr = head;
 
-        while (true) {
-            ListNode* kth = getKth(groupPrev, k);
-            if (!kth) break;                    
-            ListNode* groupNext = kth->next;   
-            ListNode* prev = groupNext;
-            ListNode* curr = groupPrev->next;
+        // 2. Process groups while at least k nodes remain
+        while (counter >= k) {
+            ListNode* groupHead = curr; // Will become the tail after reversal
+            ListNode* prev = nullptr;
 
-            while (curr != groupNext) {
-                ListNode* next = curr->next;
+            // Standard 3-pointer reversal for k nodes
+            for (int i = 0; i < k; i++) {
+                ListNode* nextTemp = curr->next;
                 curr->next = prev;
                 prev = curr;
-                curr = next;
+                curr = nextTemp;
             }
 
-            ListNode* newGroupHead = kth;              
-            ListNode* newGroupTail = groupPrev->next;  
-            groupPrev->next = newGroupHead;
-            groupPrev = newGroupTail;     
+            // 3. Reconnect the reversed group to the rest of the list
+            prevGroupTail->next = prev; // 'prev' is now the new head of this k-group
+            groupHead->next = curr;     // 'curr' is the start of the next group
+            
+            // Advance prevGroupTail to the end of the group we just reversed
+            prevGroupTail = groupHead;
+            counter -= k;
         }
 
         return dummy.next;
-    }
-
-private:
-    ListNode* getKth(ListNode* curr, int k) {
-        while (curr && k > 0) {
-            curr = curr->next;
-            k--;
-        }
-        return curr;
     }
 };
